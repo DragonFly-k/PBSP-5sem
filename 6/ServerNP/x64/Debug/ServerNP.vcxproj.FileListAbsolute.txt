@@ -1,1 +1,2 @@
 D:\универ\пбсп\лабы\5\ServerNP\x64\Debug\ServerNP.exe
+D:\универ\пбсп\лабы\6\ServerNP\x64\Debug\ServerNP.exe
