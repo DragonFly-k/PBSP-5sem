@@ -13,12 +13,7 @@
 #define PORT 2000
 using namespace std;
 
-bool  GetServerByName(
-    const char* name, //[in] имя компьютера в сети  
-    const char* call, //[in] позывной   
-    struct sockaddr* from, //[in,out] указатель на SOCKADDR_IN
-    int* flen  //[in,out] указатель на размер from 
-);
+bool  GetServerByName(const char* name, const char* call, struct sockaddr* from, int* flen );
 
 int main()
 {

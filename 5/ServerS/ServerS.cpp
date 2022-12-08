@@ -9,7 +9,6 @@
 
 using namespace std;
 
-
 int countServers = 1;
 bool GetRequestFromClient(char* name, short port, struct sockaddr* from, int* flen);
 bool PutAnswerToClient(char* name, struct sockaddr* to, int* lto);
@@ -72,7 +71,7 @@ int main(int argc, char* argv[])
 
 bool GetRequestFromClient(char* name, short port, struct sockaddr* from, int* flen) {
     char bfrom[50], hostname[50];
-    try {
+    try {   
         while (true) {
             if (recvfrom(sS, bfrom, sizeof(bfrom), NULL, from, flen) == SOCKET_ERROR) 
                 throw SetErrorMsgText("GetRequestFromClient recvfrom: ", WSAGetLastError());
