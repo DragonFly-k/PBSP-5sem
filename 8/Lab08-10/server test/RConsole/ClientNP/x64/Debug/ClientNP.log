@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  RConsole.cpp
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\server test\RConsole\ClientNP\RConsole.cpp(47,7): warning C4101: 'msg': unreferenced local variable
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\server test\RConsole\ClientNP\RConsole.cpp(48,7): warning C4101: 'final_msg': unreferenced local variable
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\server test\RConsole\ClientNP\RConsole.cpp(68,6): warning C4101: 'n': unreferenced local variable
+  ClientNP.vcxproj -> D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\ConcurrentServer\x64\Debug\RConsole.exe

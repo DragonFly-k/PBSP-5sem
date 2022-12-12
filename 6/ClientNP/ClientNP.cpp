@@ -5,8 +5,8 @@
 #include "ErrorMsgText.h"
 #include "Windows.h"
 
-//#define NAME L"\\\\.\\pipe\\Tube"
-#define NAME L"\\\\DESKTOP-M01CN9D\\pipe\\Tube"
+#define NAME L"\\\\.\\pipe\\Tube"
+//#define NAME L"\\\\DESKTOP-M01CN9D\\pipe\\Tube"
 
 #define STOP "STOP"
 
