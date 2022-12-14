@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  RConsole.cpp
+C:\Users\37525\OneDrive\Рабочий стол\8-10Maxik\server test\RConsole\ClientNP\RConsole.cpp(47,7): warning C4101: msg: неиспользованная локальная переменная
+C:\Users\37525\OneDrive\Рабочий стол\8-10Maxik\server test\RConsole\ClientNP\RConsole.cpp(48,7): warning C4101: final_msg: неиспользованная локальная переменная
+C:\Users\37525\OneDrive\Рабочий стол\8-10Maxik\server test\RConsole\ClientNP\RConsole.cpp(68,6): warning C4101: n: неиспользованная локальная переменная
+  ClientNP.vcxproj -> C:\Users\37525\OneDrive\Рабочий стол\8-10Maxik\server test\RConsole\x64\Debug\RConsole.exe

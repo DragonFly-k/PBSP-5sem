@@ -1,0 +1,51 @@
+﻿Сборка начата 09.12.2022 13:36:17.
+Уровень детализации журнала: Normal.     1>Проект "D:\LR_08_10\ConcurrentServer\ConcurrentServer\ConcurrentServer.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\ConcurrentServer.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\ConcurrentServer.pch" /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt ConcurrentServer.cpp
+         ConcurrentServer.cpp
+     1>D:\LR_08_10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(78,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>D:\LR_08_10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(85,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>D:\LR_08_10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(257,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>D:\LR_08_10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(295,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>D:\LR_08_10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(393,7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>D:\LR_08_10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(500,102): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+     1>D:\LR_08_10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(524,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>D:\LR_08_10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(528,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>D:\LR_08_10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(529,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>D:\LR_08_10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(533,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>D:\LR_08_10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(534,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>D:\LR_08_10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(240): warning C4715: set_param: значение возвращается не при всех путях выполнения
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\LR_08_10\ConcurrentServer\Debug\ConcurrentServer.exe" /INCREMENTAL /ILK:"Debug\ConcurrentServer.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\LR_08_10\ConcurrentServer\Debug\ConcurrentServer.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\LR_08_10\ConcurrentServer\Debug\ConcurrentServer.lib" /MACHINE:X86 Debug\ConcurrentServer.obj
+         Debug\ErrorFunctions.obj
+         Debug\stdafx.obj
+         ConcurrentServer.vcxproj -> D:\LR_08_10\ConcurrentServer\Debug\ConcurrentServer.exe
+       FinalizeBuildStatus:
+         Файл "Debug\ConcurrentServer.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\ConcurrentServer.tlog\ConcurrentServer.lastbuildstate".
+     1>Сборка проекта "D:\LR_08_10\ConcurrentServer\ConcurrentServer\ConcurrentServer.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\LR_08_10\ConcurrentServer\ConcurrentServer\ConcurrentServer.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\LR_08_10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(78,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         D:\LR_08_10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(85,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         D:\LR_08_10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(257,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         D:\LR_08_10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(295,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         D:\LR_08_10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(393,7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         D:\LR_08_10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(500,102): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+         D:\LR_08_10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(524,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         D:\LR_08_10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(528,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         D:\LR_08_10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(529,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         D:\LR_08_10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(533,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         D:\LR_08_10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(534,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         D:\LR_08_10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(240): warning C4715: set_param: значение возвращается не при всех путях выполнения
+
+    Предупреждений: 12
+    Ошибок: 0
+
+Прошло времени 00:00:01.77

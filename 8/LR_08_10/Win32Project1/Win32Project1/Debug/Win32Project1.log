@@ -1,0 +1,21 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+C:\Users\37525\OneDrive\Рабочий стол\8-10Maxik\Win32Project1\Win32Project1\dllmain.cpp(2,9): warning C4616: предупреждение #pragma: предупреждение с номером "2664" не является действительным предупреждением компилятора
+C:\Users\37525\OneDrive\Рабочий стол\8-10Maxik\Win32Project1\Win32Project1\dllmain.cpp(2,31): warning C4081: требуется "newline"; обнаружен ";"
+C:\Users\37525\OneDrive\Рабочий стол\8-10Maxik\Win32Project1\Win32Project1\PrototypeService.h(34,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\37525\OneDrive\Рабочий стол\8-10Maxik\Win32Project1\Win32Project1\PrototypeService.h(41,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\37525\OneDrive\Рабочий стол\8-10Maxik\Win32Project1\Win32Project1\PrototypeService.h(51,13): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\37525\OneDrive\Рабочий стол\8-10Maxik\Win32Project1\Win32Project1\PrototypeService.h(91,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\37525\OneDrive\Рабочий стол\8-10Maxik\Win32Project1\Win32Project1\PrototypeService.h(88,7): warning C4101: lobuf: неиспользованная локальная переменная
+C:\Users\37525\OneDrive\Рабочий стол\8-10Maxik\Win32Project1\Win32Project1\PrototypeService.h(142,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\37525\OneDrive\Рабочий стол\8-10Maxik\Win32Project1\Win32Project1\PrototypeService.h(140,6): warning C4101: lobuf: неиспользованная локальная переменная
+C:\Users\37525\OneDrive\Рабочий стол\8-10Maxik\Win32Project1\Win32Project1\PrototypeService.h(140,13): warning C4101: libuf: неиспользованная локальная переменная
+C:\Users\37525\OneDrive\Рабочий стол\8-10Maxik\Win32Project1\Win32Project1\PrototypeService.h(161,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\37525\OneDrive\Рабочий стол\8-10Maxik\Win32Project1\Win32Project1\PrototypeService.h(164,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\37525\OneDrive\Рабочий стол\8-10Maxik\Win32Project1\Win32Project1\PrototypeService.h(162,6): warning C4101: lobuf: неиспользованная локальная переменная
+C:\Users\37525\OneDrive\Рабочий стол\8-10Maxik\Win32Project1\Win32Project1\PrototypeService.h(162,13): warning C4101: libuf: неиспользованная локальная переменная
+  ErrorFunctions.cpp
+  Win32Project1.cpp
+  Создание кода...
+     Создается библиотека C:\Users\37525\OneDrive\Рабочий стол\8-10Maxik\Win32Project1\Debug\Win32Project1.lib и объект C:\Users\37525\OneDrive\Рабочий стол\8-10Maxik\Win32Project1\Debug\Win32Project1.exp
+  Win32Project1.vcxproj -> C:\Users\37525\OneDrive\Рабочий стол\8-10Maxik\Win32Project1\Debug\Win32Project1.dll

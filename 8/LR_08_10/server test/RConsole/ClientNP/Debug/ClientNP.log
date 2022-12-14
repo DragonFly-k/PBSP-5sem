@@ -1,0 +1,20 @@
+﻿Сборка начата 08.12.2022 12:27:57.
+Уровень детализации журнала: Normal.     1>Проект "D:\LR_08_10\server test\RConsole\ClientNP\ClientNP.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\RConsole.tlog\unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         ClientNP.vcxproj -> D:\LR_08_10\ConcurrentServer\Debug\RConsole.exe
+       FinalizeBuildStatus:
+         Файл "Debug\RConsole.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\RConsole.tlog\RConsole.lastbuildstate".
+     1>Сборка проекта "D:\LR_08_10\server test\RConsole\ClientNP\ClientNP.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.06
